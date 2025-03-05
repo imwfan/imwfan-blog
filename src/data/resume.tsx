@@ -29,13 +29,13 @@ export const DATA = {
     "AI API",
   ],
   videos: [
-    // {
-    //   title: "Track Your Coding time for free",
-    //   description: "Learn how to track your code time with complete analytics and insights.",
-    //   thumbnail: "/video1.avif",
-    //   url: "https://youtu.be/tBatfQjWxCg?si=sy2vZbCHoIYNME-3",
-    //   date: "2024-05-15"
-    // },
+    {
+      title: "Track Your Coding time for free",
+      description: "Learn how to track your code time with complete analytics and insights.",
+      thumbnail: "/video1.avif",
+      url: "https://youtu.be/tBatfQjWxCg?si=sy2vZbCHoIYNME-3",
+      date: "2024-05-15"
+    },
     // {
     //   title: "Fix multi-cursor in VS Code",
     //   description: "Simple trick to fix multi-cursor in VS Code.",
@@ -207,14 +207,14 @@ export const DATA = {
     },
   ],
   education: [
-    // {
-    //   school: "Trident Academy Of Technology",
-    //   href: "https://tat.ac.in/",
-    //   degree: "B.Tech in Computer Science and Information Technology",
-    //   logoUrl: "/buildspace.webp",
-    //   start: "2020",
-    //   end: "2024",
-    // },
+    {
+      school: "Trident Academy Of Technology",
+      href: "https://tat.ac.in/",
+      degree: "B.Tech in Computer Science and Information Technology",
+      logoUrl: "/buildspace.webp",
+      start: "2020",
+      end: "2024",
+    },
     // {
     //   school: "Netaji Subhas Memorial City College",
     //   href: "https://www.nsmcity.ac.in/index.asp",
@@ -225,39 +225,39 @@ export const DATA = {
     // },
   ],
   projects: [
-    // {
-    //   title: "Resume Builder",
-    //   href: "https://resume-builder-ten-opal.vercel.app/",
-    //   dates: "May 2023 - Sept 2023",
-    //   active: true,
-    //   description:
-    //     "It was my final year [Project](https://github.com/StarKnightt/ResumeBuilder) in our college, It is a interactive and versatile Dynamic CV Builder, completely build from scratch with backend functionallity .",
-    //   technologies: [
-    //     "CSS",
-    //     "javascript",
-    //     "MongoDB",
-    //     "Express.js",
-    //     "HTML",
-    //     "Regex",
-    //     "Node.js",
-    //   ],
-    //   links: [
-    //     {
-    //       type: "Website",
-    //       href: "https://builddresume.vercel.app/",
-    //       icon: <Icons.globe className="size-3" />,
-    //     },
-    //     {
-    //       type: "Source",
-    //       href: "https://github.com/StarKnightt/ResumeBuilder",
-    //       icon: <Icons.github className="size-3" />,
-    //     },
-    //   ],
-    //
-    //   image: "",
-    //   video:
-    //     "https://video.gumlet.io/6745e593080b60408ca085f7/6745e5e5080b60408ca08984/download.mp4",
-    // },
+    {
+      title: "Resume Builder",
+      href: "https://resume-builder-ten-opal.vercel.app/",
+      dates: "May 2023 - Sept 2023",
+      active: true,
+      description:
+        "It was my final year [Project](https://github.com/StarKnightt/ResumeBuilder) in our college, It is a interactive and versatile Dynamic CV Builder, completely build from scratch with backend functionallity .",
+      technologies: [
+        "CSS",
+        "javascript",
+        "MongoDB",
+        "Express.js",
+        "HTML",
+        "Regex",
+        "Node.js",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://builddresume.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/StarKnightt/ResumeBuilder",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+
+      image: "",
+      video:
+        "https://video.gumlet.io/6745e593080b60408ca085f7/6745e5e5080b60408ca08984/download.mp4",
+    }
     // {
     //   title: "Wallpaper App",
     //   href: "https://www.wallpaperz.in/",
