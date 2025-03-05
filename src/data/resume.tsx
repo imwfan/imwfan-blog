@@ -417,9 +417,9 @@ export const DATA = {
       location: "深圳",
       description:
         "开发了一个学习门户，其中有一些免费的教育内容",
-      // image:
-      //   "/smart-india-hackathon.webp",
-      // mlh: "https://github.com/Synchrotek/E-LearningX",
+      image:
+        "/smart-india-hackathon.webp",
+      mlh: "https://github.com/Synchrotek/E-LearningX",
       links: [],
     },
     // {
